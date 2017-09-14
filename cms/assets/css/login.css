@@ -1,0 +1,17 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Arapey', serif;
+	border: 0;
+	color: #303030;
+}
+
+.account-wall{
+	margin-top: 100px;
+	border: 1px solid #a29493;
+	padding: 20px;
+}
+
+.img-circle{
+	width: 100px;
+	height: 100px;
+}
